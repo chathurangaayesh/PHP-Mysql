@@ -1,0 +1,51 @@
+* {
+	margin: 0px;
+padding: 0px;
+}
+body {
+	background-color:#F8F8FF; 
+	font-size: 120%;
+}
+.header {
+	color: white;
+	background-color: #399;
+	margin: 50px auto 0px;
+	text-align:center;
+	width: 40%;
+	border-radius: 10px 10px 0px 0px ;
+	border:1px solid #B0C4DE;
+	padding: 20px;
+}
+form {
+	
+	margin: 0px auto;
+	
+
+	background: white;
+	border-radius: 0px 0px 10px 10px;
+
+}
+.content{
+width: 40%;
+	margin: 0px auto;
+	padding: 20px;
+	border:20px;
+	background: white;
+	border-radius: 0px 0px 10px 10px;
+}
+.content input {
+	
+	padding: 5px 10px;
+	font-size: 16px;
+	border-radius: 5px;
+	border: 1px solid gray;
+
+}
+.content label {
+	display: block;
+	text-align: left;
+	margin: 3px;
+}
+table tr {
+	padding: 5px;
+}
